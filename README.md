@@ -8,6 +8,8 @@ To start the backend server use the following command in the backend directory(u
 To start the frontend server use the following command in the frontend directory(use cd command for changing directory)
 -npm run dev
 
+Seed the data by using the POSTMAN->POST method-> "http://localhost:3000/api/seed"
+after this you are free to access the project!
 
 Output:- for the default month March output is shown below
 
